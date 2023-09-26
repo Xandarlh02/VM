@@ -1,0 +1,15 @@
+C:\Users\Alexandar Lackovic\source\repos\VM\bin\Debug\net6.0\VM.exe
+C:\Users\Alexandar Lackovic\source\repos\VM\bin\Debug\net6.0\VM.deps.json
+C:\Users\Alexandar Lackovic\source\repos\VM\bin\Debug\net6.0\VM.runtimeconfig.json
+C:\Users\Alexandar Lackovic\source\repos\VM\bin\Debug\net6.0\VM.dll
+C:\Users\Alexandar Lackovic\source\repos\VM\bin\Debug\net6.0\VM.pdb
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.csproj.AssemblyReference.cache
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.AssemblyInfoInputs.cache
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.AssemblyInfo.cs
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.csproj.CoreCompileInputs.cache
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.dll
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\refint\VM.dll
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.pdb
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\VM.genruntimeconfig.cache
+C:\Users\Alexandar Lackovic\source\repos\VM\obj\Debug\net6.0\ref\VM.dll
